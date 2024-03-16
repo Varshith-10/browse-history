@@ -1,0 +1,24 @@
+.item {
+  display: flex;
+  width: 80vw;
+}
+
+.iconImg {
+  height: 20px;
+  width: 20px;
+  margin-left: 10px;
+}
+.heading {
+  font-size: 20px;
+}
+.para {
+  font-size: 15px;
+}
+.imgTitle {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  width: 70vw;
+}

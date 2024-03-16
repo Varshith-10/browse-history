@@ -1,0 +1,39 @@
+.navbar {
+  height: 10vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: #3367d6;
+  padding: 20px;
+  text-align: left;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.inpt {
+  height: 50px;
+  width: 200px;
+  background-color: transparent;
+  border-width: 0px;
+}
+.itemsCont {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.search {
+  height: 20px;
+  width: 30px;
+}
+.imgCont {
+  border-style: solid;
+  border-width: 2px;
+  border-color: white;
+  height: 50px;
+  width: 228px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #2850a7;
+  margin-top: 20px;
+}
